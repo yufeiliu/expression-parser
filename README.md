@@ -9,3 +9,5 @@ This originated as solution to an interview question. But I decided to expand on
 To run the parser inline and get result in STDOUT: `node run.js "1 + 2"`
 
 To start an interactive shell: `node run.js`
+
+To run tests: `jasmine-node spec/`
